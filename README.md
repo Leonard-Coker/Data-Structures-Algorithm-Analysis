@@ -1,4 +1,6 @@
-# Stacks Implementation — Data Structures and Algorithms
+# Data-Structures-Algorithm-Analysis
+
+## Stacks Implementation — Data Structures and Algorithms
 
 ## Project purpose
 This Python project evaluates arithmetic expressions from a text file using two stacks: an operand stack and an operator stack. It supports `+`, `-`, `*`, `/`, parentheses, decimal values, and unary plus/minus in common expressions. It does **not** use Python's `eval()`.
