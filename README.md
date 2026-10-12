@@ -21,7 +21,7 @@ This Python project evaluates arithmetic expressions from a text file using two 
 - `docs/REPORT_GUIDE.md` — report-writing guide
 
 ## Run in VS Code
-1. Open the `Stacks_Implementation_Assignment` folder in VS Code.
+1. Open the `Stacks Implementation Assignment` folder in VS Code.
 2. Ensure Python is installed and selected in VS Code.
 3. Open **Terminal → New Terminal**.
 4. Run:
